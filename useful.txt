@@ -1,0 +1,53 @@
+PRIMARY COLOR #0c0094
+SECONDARY COLOR #947b00
+
+
+
+
+<footer>
+        <div class="footer-links">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="programs.html">Programs</a></li>
+                <li><a href="faculty.html">Faculty</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="student-projects.html">Student Projects</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </div>
+        <div class="footer-info">
+            <p>&copy; 2023 University of Ghana Computer Science Department</p>
+            <p>Contact: csdepartment@university.edu</p>
+        </div>
+    </footer>
+
+
+
+
+<header>
+        <h1>Welcome to the Computer Science Department</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="programs.html">Programs</a></li>
+                <li><a href="faculty.html">Faculty</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="student-projects.html">Student Projects</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </nav>
+
+
+    </header>
+    <img src="header-image.jpg" alt="Computer Science Department" class="header-image">
+
+
+
